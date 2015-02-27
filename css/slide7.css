@@ -1,0 +1,66 @@
+#cont1 {
+	display: block;
+	position: absolute;
+	top: 206px;
+	left: 355px;
+	width: 240px;
+	height: 241px;
+	-webkit-animation-delay: 1s;
+	-o-animation-delay: 1s;
+	animation-delay: 1s;
+}
+#cont2 {
+	display: block;
+	position: absolute;
+	top: 253px;
+	left: 612px;
+	width: 313px;
+	height: 123px;
+	-webkit-animation-delay: 1s;
+	-o-animation-delay: 1s;
+	animation-delay: 1s;
+}
+#cont3 {
+	display: block;
+	position: absolute;
+	top: 175px;
+	left: 787px;
+	width: 134px;
+	height: 23px;
+	-webkit-animation-delay: 1.5s;
+	-o-animation-delay: 1.5s;
+	animation-delay: 1.5s;
+}
+#cont4 {
+	display: block;
+	position: absolute;
+	top: 191px;
+	left: 342px;
+	width: 592px;
+	height: 290px;
+	-webkit-animation-delay: 2s;
+	-o-animation-delay: 2s;
+	animation-delay: 2s;
+}
+#cont5 {
+	display: block;
+	position: absolute;
+	top: 543px;
+	left: 97px;
+	width: 150px;
+	height: 76px;
+	-webkit-animation-delay: 2.5s;
+	-o-animation-delay: 2.5s;
+	animation-delay: 2.5s;
+}
+#cont6 {
+	display: block;
+	position: absolute;
+	top: 525px;
+	left: 286px;
+	width: 401px;
+	height: 115px;
+	-webkit-animation-delay: 3s;
+	-o-animation-delay: 3s;
+	animation-delay: 3s;
+}

@@ -1,0 +1,121 @@
+#cont1 {
+	display: block;
+	position: absolute;
+	top: 140px;
+	left: 750px;
+	width: 218px;
+	height: 40px;
+	-webkit-animation-delay: 1.7s;
+	animation-delay: 1.7s;
+}
+#cont2 {
+	display: block;
+	position: absolute;
+	top: 184px;
+	left: 214px;
+	width: 592px;
+	height: 383px;
+}
+#cont3 {
+	display: block;
+	position: absolute;
+	top: 184px;
+	left: 229px;
+	width: 140px;
+	height: 256x;
+
+	-webkit-animation-delay: 0.6s;
+	animation-delay: 0.6s;
+}
+#cont4 {
+	display: block;
+	position: absolute;
+	top: 230px;
+	left: 374px;
+	width: 13px;
+	height: 221px;
+	-webkit-animation-delay: 1s;
+	animation-delay: 1s;
+}
+#cont5 {
+	display: block;
+	position: absolute;
+	top: 334px;
+	left: 393px;
+	width: 403px;
+	height: 185px;
+	-webkit-animation-delay: 0.3s;
+	animation-delay: 0.3s;
+}
+#cont6 {
+	display: block;
+	position: absolute;
+	top: 342px;
+	left: 424px;
+	width: 370px;
+	height: 134px;
+	-webkit-animation-duration: 1.3s;
+	animation-duration: 1.3s;
+	-webkit-animation-delay: 0.3s;
+	animation-delay: 0.3s;
+}
+#cont7 {
+	display: block;
+	position: absolute;
+	top: 279px;
+	left: 683px;
+	width: 117px;
+	height: 26px;
+	-webkit-animation-delay: 1s;
+	animation-delay: 1s;
+}
+#cont8 {
+	display: block;
+	position: absolute;
+	top: 212px;
+	left: 701px;
+	width: 103px;
+	height: 28px;
+	-webkit-animation-delay: 1.4s;
+	animation-delay: 1.4s;
+}
+#cont9 {
+	display: block;
+	position: absolute;
+	top: 164px;
+	left: 450px;
+	width: 177px;
+	height: 176px;
+	-webkit-animation-delay: 1.5s;
+	animation-delay: 1.5s;
+}
+#cont10 {
+	display: block;
+	position: absolute;
+	top: 534px;
+	left: 462px;
+	width: 347px;
+	height: 22px;
+	-webkit-animation-delay: 0.7s;
+	animation-delay: 0.7s;
+}
+#cont11 {
+	display: block;
+	position: absolute;
+	top: 610px;
+	left: 65px;
+	width: 170px;
+	height: 59px;
+	-webkit-animation-delay: 1.5s;
+	animation-delay: 1.5s;
+}
+#cont12 {
+	display: block;
+	position: absolute;
+	top: 600px;
+	left: 252px;
+	width: 384px;
+	height: 71px;
+	-webkit-animation-delay: 1.2s;
+	animation-delay: 1.2s;
+}

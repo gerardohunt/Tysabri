@@ -1,0 +1,85 @@
+#back{
+	top: 50%;
+	left: 50px;
+	position: absolute;
+}
+#txt1 {
+	display: block;
+	position: absolute;
+	top: 176px;
+	left: 177px;
+	width: 131px;
+	height: 131px;
+	-webkit-animation-delay: 1.5s;
+	-o-animation-delay: 1.5s;
+	animation-delay: 1.5s;
+	z-index: 3;
+}
+#txt2 {
+	display: block;
+	position: absolute;
+	top: 202px;
+	left: 339px;
+	width: 324px;
+	height: 74px;
+	-webkit-animation-delay: 2s;
+	-o-animation-delay: 2s;
+	animation-delay: 2s;
+}
+#txt3 {
+	display: block;
+	position: absolute;
+	top: 342px;
+	left: 333px;
+	width: 131px;
+	height: 131px;
+	-webkit-animation-delay: 2.5s;
+	-o-animation-delay: 2.5s;
+	animation-delay: 2.5s;
+	z-index: 3;
+}
+#txt4 {
+	display: block;
+    height: 66px;
+    left: 498px;
+    position: absolute;
+    top: 365px;
+    width: 341px;
+    -webkit-animation-delay: 3s;
+    -o-animation-delay: 3s;
+    animation-delay: 3s;
+}
+#txt5 {
+	display: block;
+	position: absolute;
+	top: 510px;
+	left: 177px;
+	width: 131px;
+	height: 131px;
+	-webkit-animation-delay: 3.5s;
+	-o-animation-delay: 3.5s;
+	animation-delay: 3.5s;
+	z-index: 3;
+}
+#txt6 {
+	display: block;
+	position: absolute;
+	top: 535px;
+	left: 339px;
+	width: 397px;
+	height: 66px;
+	-webkit-animation-delay: 4s;
+	-o-animation-delay: 4s;
+	animation-delay: 4s;
+}
+#txt7 {
+	display: block;
+	position: absolute;
+	top: 662px;
+	left: 91px;
+	width: 259px;
+	height: 14px;
+	-webkit-animation-delay: 4.5s;
+	-o-animation-delay: 4.5s;
+	animation-delay: 4.5s;
+}

@@ -1,0 +1,198 @@
+body {
+	margin: 0; 
+	padding: 0;
+}
+#navAnt {
+    display: block;
+    position: absolute;
+    width: 22px;
+    height: 22px;
+    left: 902px;
+    top: 25px;
+    z-index: 10;
+    -webkit-animation-delay: 1.5s;
+    -o-animation-delay: 1.5s;
+    animation-delay: 1.5s;
+}
+#navHome {
+    display: block;
+    position: absolute;
+    width: 39px;
+    height: 36px;
+    left: 938px;
+    top: 17px;
+    z-index: 10;
+    -webkit-animation-delay: 1s;
+    -o-animation-delay: 1s;
+    animation-delay: 1s;
+}
+#navSig {
+    display: block;
+    position: absolute;
+    width: 22px;
+    height: 22px;
+    left: 989px;
+    top: 25px;
+    z-index: 10;
+    -webkit-animation-delay: 1.5s;
+    -o-animation-delay: 1.5s;
+    animation-delay: 1.5s;
+}
+#contenedor {
+	position: relative;
+	height: 768px;
+	margin: 0 auto;
+	overflow: hidden;
+	width: 1024px;
+}
+#lineas {
+	position: absolute;
+	width: 757px;
+	height: 46px;
+	left: 138px;
+	top: 709px;
+	-webkit-animation-delay: 1.5s;
+	-o-animation-delay: 1.5s;
+	animation-delay: 1.5s;
+}
+#btn1{
+	top: 725px;
+    display: block;
+    height: 15px;
+    left: 27px;
+    position: absolute;
+    width: 100px;
+    z-index: 5;
+    -webkit-animation-delay: 2s;
+    -o-animation-delay: 2s;
+    animation-delay: 2s;
+}
+#btn2{
+	top: 716px;
+    display: block;
+    height: 32px;
+    left: 155px;
+    position: absolute;
+    width: 137px;
+    z-index: 5;
+    -webkit-animation-delay: 2s;
+    -o-animation-delay: 2s;
+    animation-delay: 2s;
+}
+#btn3{
+	top: 716px;
+    display: block;
+    height: 32px;
+    left: 316px;
+    position: absolute;
+    width: 130px;
+    z-index: 5;
+    -webkit-animation-delay: 2s;
+    -o-animation-delay: 2s;
+    animation-delay: 2s;
+}
+#btn4{
+	top: 716px;
+    display: block;
+    height: 32px;
+    left: 468px;
+    position: absolute;
+    width: 130px;
+    z-index: 5;
+    -webkit-animation-delay: 2s;
+    -o-animation-delay: 2s;
+    animation-delay: 2s;
+}
+#btn5{
+	top: 716px;
+    display: block;
+    height: 32px;
+    left: 620px;
+    position: absolute;
+    width: 146px;
+    z-index: 5;
+    -webkit-animation-delay: 2s;
+    -o-animation-delay: 2s;
+    animation-delay: 2s;
+}
+#btn6{
+	top: 716px;
+    display: block;
+    height: 32px;
+    left: 787px;
+    position: absolute;
+    width: 91px;
+    z-index: 5;
+    -webkit-animation-delay: 2s;
+    -o-animation-delay: 2s;
+    animation-delay: 2s;
+}
+#btn7 {
+	top: 716px;
+    display: block;
+    height: 30px;
+    left: 905px;
+    position: absolute;
+    width: 93px;
+    z-index: 5;
+    -webkit-animation-delay: 2s;
+    -o-animation-delay: 2s;
+    animation-delay: 2s;
+}
+#btn8 {
+	bottom: 34px;
+    display: block;
+    height: 21px;
+    left: 942px;
+    position: absolute;
+    width: 67px;
+    z-index: 5;
+    -webkit-animation-delay: 2s;
+    -o-animation-delay: 2s;
+    animation-delay: 2s;
+}
+#logo {
+	display: block;
+	position: absolute;
+	right: 0px;
+	bottom: 63px;
+	width: 288px;
+	height: 117px;
+}
+#txt1 {
+	display: block;
+	position: absolute;
+	left: 10px;
+	top: 200px;
+	width: 13px;
+	height: 494px;
+}
+#title {
+	display: block;
+	position: absolute;
+	right: 0px;
+	top: 40px;
+	width: 934px;
+	height: 81px;
+}
+#title img {
+	display: block;
+	position: absolute;
+	right: 0px;
+	bottom: 0px;
+	width: auto;
+}
+#txtizq {
+	width: 13px;
+	height: 494px;
+	position: absolute;
+	left: 10px;
+	top: 200px;
+}
+#logoBttm {
+	width: 189px;
+	height: 92px;
+	position: absolute;
+	right: 0px;
+	bottom: 80px;
+}

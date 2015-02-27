@@ -1,0 +1,137 @@
+#fondoGrafica{
+	position: absolute;
+	left: 192px;
+	top: 244px;
+	-webkit-animation-delay: 1s;
+	-o-animation-delay: 1s;
+	animation-delay: 1s;
+}
+
+#txt1 {
+	display: block;
+	position: absolute;
+	top: 140px;
+	left: 216px;
+	-webkit-animation-delay: 1.5s;
+	-o-animation-delay: 1.5s;
+	animation-delay: 1.5s;
+	
+}
+#txt5 {
+	display: block;
+	position: absolute;
+	top: 309px;
+	left: 224px;
+	-webkit-animation-delay: 2s;
+	-o-animation-delay: 2s;
+	animation-delay: 2s;
+	
+}
+#txt6 {
+	display: block;
+	position: absolute;
+	top: 323px;
+	left: 271px;
+	-webkit-animation-delay: 2.5s;
+	-o-animation-delay: 2.5s;
+	animation-delay: 2.5s;
+	
+}
+#txt7 {
+	display: block;
+	height: 66px;
+	left: 353px;
+	position: absolute;
+	top: 330px;
+	-webkit-animation-delay: 3s;
+	-o-animation-delay: 3s;
+	animation-delay: 3s;
+}
+	
+#txt8 {
+	display: block;
+	position: absolute;
+	top: 342px;
+	left: 428px;
+	-webkit-animation-delay: 3.5s;
+	-o-animation-delay: 3.5s;
+	animation-delay: 3.5s;
+}
+#txt9 {
+	display: block;
+	position: absolute;
+	top: 328px;
+	left: 485px;
+	-webkit-animation-delay: 4s;
+	-o-animation-delay: 4s;
+	animation-delay: 4s;
+}
+#txt10 {
+	display: block;
+	position: absolute;
+	top: 365px;
+	left: 497px;
+	-webkit-animation-delay:4s;
+	-o-animation-delay:4s;
+	animation-delay:4s;
+}
+#txt11 {
+	display: block;
+	position: absolute;
+	top: 353px;
+	left: 563px;
+	-webkit-animation-delay: 4.5s;
+	-o-animation-delay: 4.5s;
+	animation-delay: 4.5s;
+}
+#txt12 {
+	display: block;
+	position: absolute;
+	top: 388px;
+	left: 579px;
+	-webkit-animation-delay: 4.5s;
+	-o-animation-delay: 4.5s;
+	animation-delay: 4.5s;
+}
+#txt13 {
+	display: block;
+	position: absolute;
+	top: 365px;
+	left: 635px;
+	-webkit-animation-delay: 5s;
+	-o-animation-delay: 5s;
+	animation-delay: 5s;
+}
+#txt14 {
+	display: block;
+	position: absolute;
+	top: 400px;
+	left: 662px;
+	-webkit-animation-delay: 5s;
+	-o-animation-delay: 5s;
+	animation-delay: 5s;
+}
+#txt15 {
+	display: block;
+	position: absolute;
+	top: 382px;
+	left: 708px;
+	-webkit-animation-delay: 5.5s;
+	-o-animation-delay: 5.5s;
+	animation-delay: 5.5s;
+}
+#txt16 {
+	display: block;
+	position: absolute;
+	top: 421px;
+	left: 729px;
+	-webkit-animation-delay: 5.5s;
+	-o-animation-delay: 5.5s;
+	animation-delay: 5.5s;
+}
+#txt17 {
+	display: block;
+	position: absolute;
+	top: 594px;
+	left: 206px;
+}

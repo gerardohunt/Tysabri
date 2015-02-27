@@ -1,0 +1,38 @@
+#back{
+	top: 50%;
+	left: 50px;
+	position: absolute;
+}
+#cont1 {
+	display: block;
+	position: absolute;
+	top: 249px;
+	left: 109px;
+	width: 803px;
+	height: 76px;
+	-webkit-animation-delay: .5s;
+	-o-animation-delay: .5s;
+	animation-delay: .5s;
+}
+#cont2 {
+	display: block;
+	position: absolute;
+	top: 401px;
+	left: 112px;
+	width: 800px;
+	height: 119px;
+	-webkit-animation-delay: 1.5s;
+	-o-animation-delay: 1.5s;
+	animation-delay: 1.5s;
+}
+#cont3 {
+	display: block;
+	position: absolute;
+	top: 562px;
+	left: 115px;
+	width: 262px;
+	height: 40px;
+	-webkit-animation-delay: 2.5s;
+	-o-animation-delay: 2.5s;
+	animation-delay: 2.5s;
+}
